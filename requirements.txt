@@ -1,0 +1,15 @@
+backports.statistics==0.1.0
+Cython==3.0.0
+dl==0.1.0
+ipaddr==2.2.0
+keyring==18.0.1
+mypy_extensions==1.0.0
+numpy==1.24.3
+ordereddict==1.1
+Pillow==9.1.0
+Pillow==10.0.0
+python-dotenv==1.0.0
+Requests==2.31.0
+spotipy==2.19.0
+tensorflow==2.13.0
+wincertstore==0.2.1
